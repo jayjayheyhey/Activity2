@@ -27,25 +27,25 @@ After that, the following steps are to be followed:
 1. Basic Tags:
    - <!DOCTYPE html> defines the document type
    - <html> is the root element of the HTML document
-   - <head></head> contains the meta information about the document
-   - <title></title> is the title of the webpage
+   - <head> contains the meta information about the document
+   - <title> is the title of the webpage
    - <meta charset = "utf-8" defines the character encoding for the document
    - <meta name = "viewport" content="width=device-width, initial-scale=1"> sets the website size to what the user's screen size currently is
-   - <footer></footer> contains contact information and links
+   - <footer> contains contact information and links
 2. Body Content
-   - <body></body> containt the content of the webpage
-   - <header></header> defined the header section
-   - <nav></nav> contains navigation links for different sections of the website
-   - <section></section> defines the different sections of the webpage
-   - <article></article> represents individual parts of the webpage
-   - <h1></h1>, <h2></h2>, <h3></h3> are heading levels for titles
-   - <p></p> defines paragraphs of text
+   - <body> containt the content of the webpage
+   - <header> defined the header section
+   - <nav> contains navigation links for different sections of the website
+   - <section>defines the different sections of the webpage
+   - <article> represents individual parts of the webpage
+   - <h1>, <h2>, <h3> are heading levels for titles
+   - <p> defines paragraphs of text
    - <a> creates hyperlinks to other pages or external sites
    - <img> embed images related to projects or content
    - <font> defines the font of the text
-   - <center></center> aligns text to the center of the webpage
+   - <center> aligns text to the center of the webpage
 3. Interactive Elements
-   - <form></form> creates a form for user input
+   - <form> creates a form for user input
    - <input> defines input fields
    - <textarea> allows for multi-line text input for longer messages
    - <button> defines a clickable button to submit the form
