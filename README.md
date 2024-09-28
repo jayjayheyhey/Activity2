@@ -25,30 +25,30 @@ After that, the following steps are to be followed:
 
 **HTML ELEMENTS AND TAGS USED**
 1. Basic Tags:
-   - <!DOCTYPE html> defines the document type
-   - <html> is the root element of the HTML document
-   - <head> contains the meta information about the document
-   - <title> is the title of the webpage
-   - <meta charset = "utf-8" defines the character encoding for the document
-   - <meta name = "viewport" content="width=device-width, initial-scale=1"> sets the website size to what the user's screen size currently is
-   - <footer> contains contact information and links
+   - !DOCTYPE html defines the document type
+   - html is the root element of the HTML document
+   - head contains the meta information about the document
+   - title is the title of the webpage
+   - meta charset = "utf-8" defines the character encoding for the document
+   - meta name = "viewport" content="width=device-width, initial-scale=1"> sets the website size to what the user's screen size currently is
+   - foote> contains contact information and links
 2. Body Content
-   - "<body>" containt the content of the webpage
-   - <header> defined the header section
-   - <nav> contains navigation links for different sections of the website
-   - <section>defines the different sections of the webpage
-   - <article> represents individual parts of the webpage
-   - <h1>, <h2>, <h3> are heading levels for titles
-   - <p> defines paragraphs of text
-   - <a> creates hyperlinks to other pages or external sites
-   - <img> embed images related to projects or content
-   - <font> defines the font of the text
-   - <center> aligns text to the center of the webpage
+   - body containt the content of the webpage
+   - header defined the header section
+   - nav contains navigation links for different sections of the website
+   - section defines the different sections of the webpage
+   - article represents individual parts of the webpage
+   - h1, h2, h3 are heading levels for titles
+   - p defines paragraphs of text
+   - a creates hyperlinks to other pages or external sites
+   - mg embed images related to projects or content
+   - font defines the font of the text
+   - center aligns text to the center of the webpage
 3. Interactive Elements
-   - <form> creates a form for user input
-   - <input> defines input fields
-   - <textarea> allows for multi-line text input for longer messages
-   - <button> defines a clickable button to submit the form
+   - form creates a form for user input
+   - input defines input fields
+   - textarea allows for multi-line text input for longer messages
+   - button defines a clickable button to submit the form
 4. Attributes
    - scr sprecifies the path to the images 
    - href specifies URLs for a link
