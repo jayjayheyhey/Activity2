@@ -33,7 +33,7 @@ After that, the following steps are to be followed:
    - <meta name = "viewport" content="width=device-width, initial-scale=1"> sets the website size to what the user's screen size currently is
    - <footer> contains contact information and links
 2. Body Content
-   - <body> containt the content of the webpage
+   - "<body>" containt the content of the webpage
    - <header> defined the header section
    - <nav> contains navigation links for different sections of the website
    - <section>defines the different sections of the webpage
