@@ -1,0 +1,161 @@
+/* Reset some default browser styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* General page styling */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f7f6; /* soft neutral */
+    color: #2f3e3a;
+}
+
+/* Header */
+header {
+    background-color: #6fa89a; /* green */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+/* Navigation */
+nav a {
+    color: #fde7ec; /* soft pink */
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 8px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Section layout */
+section {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+/* Headings */
+h2 {
+    margin-bottom: 15px;
+    color: #4f8a7a; /* darker green */
+}
+
+h3 {
+    margin-bottom: 8px;
+    color: #6fa89a;
+}
+
+/* Articles */
+article {
+    margin-bottom: 25px;
+}
+
+/* Lists */
+ul {
+    margin-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+/* Links */
+a {
+    color: #e07a9b; /* pink */
+}
+
+a:hover {
+    color: #c85f82;
+}
+
+/* Images */
+img {
+    border-radius: 6px;
+    margin: 10px 0;
+}
+
+/* Contact form */
+form {
+    max-width: 500px;
+}
+
+label {
+    font-weight: bold;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid #b7d6cc;
+}
+
+textarea {
+    min-height: 100px;
+    resize: vertical;
+}
+
+/* Button */
+button {
+    background-color: #6fa89a; /* green */
+    color: white;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #e07a9b; /* pink on hover */
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #6fa89a;
+    color: white;
+    margin-top: 40px;
+}
+
+footer a {
+    color: #fde7ec;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.image-group {
+    text-align: center;
+}
+
+.project-img {
+    width: 180px;
+    margin: 8px;
+}
+
+.profile-picture {
+    text-align: center;
+}
